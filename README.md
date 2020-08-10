@@ -10,5 +10,5 @@
 </p>
 
 <p float="center">
-<img src="readme_images/7.png" width="900" />
+<img src="readme_images/7.png" width="600" />
 </p>
